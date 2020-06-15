@@ -6,6 +6,13 @@
 
 `pip install opencv-python`
 
+
+git clone https://github.com/tensorflow/models.git
+
+
+/models/research/
+protoc object_detection/protos/*.proto --python_out=.
+
 ## run program
 
 `sudo apt-get install protobuf-compiler python-pil python-lxml`
