@@ -1,4 +1,5 @@
 # sack_detection
 
+`pip install tensorflow==1.15.0`
 
-```jhg````
+`pip install opencv-python`
